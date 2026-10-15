@@ -2,7 +2,7 @@
 
 Etudiant en BTS SIO (1re année) au lycée Paul Lapie
 
-## ce qui m'intéresse
+## Ce qui m'intéresse
 - Réseaux et cybersécurité
 
 ## Compétence en cours d'acquisition
