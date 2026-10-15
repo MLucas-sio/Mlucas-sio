@@ -9,4 +9,4 @@ Etudiant en BTS SIO (1re année) au lycée Paul Lapie
 HTML - CSS - Windows Server - Cisco Packet Tracer
 
 ## Me contacter 
-[Linkedin] (https://www.linkedin.com/in/lucas-miranda-wp
+[Linkedin] (https://www.linkedin.com/in/lucas-miranda-wp)
